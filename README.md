@@ -20,7 +20,7 @@ https://min-api.cryptocompare.com/data/all/coinlist
 
     ![elbow_curve.png](Images/elbow_curve.png)
 
-    -New dataframe - clustered
+    - New dataframe - clustered
 
     ![clustered_df.png](Images/clustered_df.png)
 
@@ -33,7 +33,7 @@ https://min-api.cryptocompare.com/data/all/coinlist
 
     ![3d_scatter_plot.png](Images/3d_scatter_plot.png)
 
-    -Scatter Plot
+    - Scatter Plot
     ![scatter_plot.png](Images/scatter_plot.png)
 
     - Summarized Table
